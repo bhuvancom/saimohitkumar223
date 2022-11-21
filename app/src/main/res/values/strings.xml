@@ -1,5 +1,15 @@
 <resources>
     <string name="app_name">saimohitkumar223</string>
+    <string name="choose_violation_type">Choose Violation type</string>
+    <string name="mobile_number_input">Enter Driver\'s Mobile Number</string>
+    <string name="amount_input">Enter Fine Amount</string>
+    <string name="submit">submit</string>
+    <string name="violation_type">Violated <b>%s</b>.</string>
+    <string name="invalid_fine">Invalid Fine amount</string>
+    <string name="invalid_mobile">Invalid Mobile Number</string>
+    <string name="violation_type_text">Violation Type</string>
+    <string name="mobile_text">Driver\'s Mobile</string>
+    <string name="fine_amount">Fine Amount</string>
     <string-array name="violations">
         <item>Road Rules</item>
         <item>Rash Drive</item>
