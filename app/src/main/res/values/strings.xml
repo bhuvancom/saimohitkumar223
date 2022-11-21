@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">saimohitkumar223</string>
+    <string-array name="violations">
+        <item>Road Rules</item>
+        <item>Rash Drive</item>
+        <item>No License</item>
+        <item>No Insurance</item>
+        <item>Not wearing Seat Belt</item>
+        <item>Not Wearing Helmet</item>
+        <item>Not Wearing Mask</item>
+    </string-array>
 </resources>
